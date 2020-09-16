@@ -1,0 +1,65 @@
+Version 1.7.2
+    Added:
+    - GDPR Compliance plugin
+    - Contact Form 7 plugin
+    - Alert to Demo data installation
+    - Privacy Policy page
+
+    Fixed:
+    - Compatibility with Gutenberg and other PageBuilders
+    - Compatibility with Wordpress 5.0
+    - Compatibility with Woocommerce 3.4.4
+    - Update plugins to their latest versions
+    - Google map
+    - Update documentation
+
+    Changed:
+    - Make forms GDPR-compliant
+    - Move Importer to ThemeREX Utilities plugin
+
+Version 1.7.1.Dev.05
+	Compatibility with PHP7
+	- Fixed lined_icon - value
+		\themes\yogastudio\shortcodes\trx_basic\title.php
+	- Fixed: sc socials in header
+		\themes\yogastudio\templates\headers\header_5.php
+	- Add rewrite rules for custom post type (Plugins trx_utils updated 3.1)
+		\plugins\trx_utils\trx_utils.php
+	- Fixed: template services 3
+		\themes\yogastudio\templates\trx_services\services-3.php
+		\themes\yogastudio\skins\default\skin.less
+	- Fixed custom services templates
+		\themes\yogastudio\templates\trx_services\services-1.php
+		\themes\yogastudio\templates\trx_services\services-2.php
+		\themes\yogastudio\templates\trx_services\services-3.php
+		\themes\yogastudio\templates\trx_services\services-4.php
+		\themes\yogastudio\templates\trx_services\services-5.php
+
+
+
+
+Version 1.7.1
+	- Updated Revolution Slider and other plugins to their latest versions
+	- WooCommerce 3.0 ready
+	- MailChimp support added 
+
+Version 1.7
+	- Updated Revolution Slider and other plugins to their latest versions
+	- Google Map's issue fixed
+
+10.06.2016 Version 1.5
+	- Fixed sidebar display error
+	- Fixed some CSS issues
+
+24.04.2016 Version 1.3
+	- Updated WPBakery PageBuilder and other plugins to their latest versions
+
+14.04.2016 Version 1.2
+	- Fixed a localization issue
+
+31.03.2016 Version 1.
+	- Fixed issues with color schemes
+	- Updated WPBakery PageBuilder
+
+27.01.2016 Version 1
+	Release

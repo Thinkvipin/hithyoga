@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-22 10:21+0500\n"
+"PO-Revision-Date: 2019-02-22 10:26+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/functions.php:59 inc/wpdp_settings.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tiene permisos suficientes para acceder a esta página."
+
+#: inc/functions.php:83 inc/wpdp_settings.php:108
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/functions.php:89
+msgid "Go Premium"
+msgstr "Hazte Premium"
+
+#: inc/functions.php:462 inc/functions.php:468
+msgid "Click here for documentation about"
+msgstr "Haga clic aquí para la documentación sobre"
+
+#: inc/wpdp_settings.php:16
+msgid "Sorry, your nonce did not verify."
+msgstr "Lo siento, tu nonce no verificó."
+
+#: inc/wpdp_settings.php:103
+msgid "Click here to download pro version"
+msgstr "Haga clic aquí para descargar la versión pro"
+
+#: inc/wpdp_settings.php:103
+msgid "Already a Pro Member?"
+msgstr "¿Ya eres miembro Pro?"
+
+#: inc/wpdp_settings.php:108
+msgid "Version"
+msgstr "Versión"
+
+#: inc/wpdp_settings.php:108
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/wpdp_settings.php:115 inc/wpdp_settings.php:266
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: inc/wpdp_settings.php:122
+msgid "Code Generator"
+msgstr "Generador de códigos"
+
+#: inc/wpdp_settings.php:122
+msgid "Optional"
+msgstr "Opcional"
+
+#: inc/wpdp_settings.php:169
+msgid "Insert the output text below and glue with comma for next."
+msgstr "Inserte el texto de salida a continuación y pegue con una coma para el siguiente."
+
+#: inc/wpdp_settings.php:174
+msgid "Video Tutorials"
+msgstr "Tutoriales en vídeo"
+
+#: inc/wpdp_settings.php:192
+msgid "Select Language"
+msgstr "Seleccione el idioma"
+
+#: inc/wpdp_settings.php:212
+msgid "Enable for backend (wp-admin)?"
+msgstr "¿Habilitar para backend (wp-admin)?"
+
+#: inc/wpdp_settings.php:213 inc/wpdp_settings.php:227
+msgid "Enable"
+msgstr "Habilitar"
+
+#: inc/wpdp_settings.php:214 inc/wpdp_settings.php:228
+msgid "Disable"
+msgstr "Inhabilitar"
+
+#: inc/wpdp_settings.php:215
+msgid "Will implement datepicker in wp-admin pages as well."
+msgstr "También implementará datepicker en las páginas wp-admin."
+
+#: inc/wpdp_settings.php:219
+msgid "Make datepicker field editable or readonly?"
+msgstr "¿El campo del selector de fecha es editable o solo de lectura?"
+
+#: inc/wpdp_settings.php:220
+msgid "Read-only"
+msgstr "Solo lectura"
+
+#: inc/wpdp_settings.php:221
+msgid "Editable"
+msgstr "Editable"
+
+#: inc/wpdp_settings.php:226
+msgid "Weekends?"
+msgstr "Fines de semana?"
+
+#: inc/wpdp_settings.php:229
+msgid "Will remove Saturdays & Sundays from date picker."
+msgstr "Se eliminarán los sábados y domingos del selector de fechas."
+
+#: inc/wpdp_settings.php:229
+msgid "Some service businesses don\\'t offer weekend service."
+msgstr "Algunas empresas de servicios no ofrecen servicio de fin de semana."
+
+#: inc/wpdp_settings.php:234
+msgid "Any other requirements with weekdays?"
+msgstr "¿Algún otro requisito con fines de semana?"
+
+#: inc/wpdp_settings.php:236
+msgid "Insert your custom code here for beforeShowDay"
+msgstr "Inserte su código personalizado aquí para antesShowDay"
+
+#: inc/wpdp_settings.php:237 inc/wpdp_settings.php:246
+msgid "e.g."
+msgstr "p.ej."
+
+#: inc/wpdp_settings.php:237
+msgid "Should enable first Thursday Only?"
+msgstr "¿Debería habilitar el primer jueves solamente?"
+
+#: inc/wpdp_settings.php:237
+msgid "It will disable every date except first thursday of each month."
+msgstr "Se deshabilitará todas las fechas, excepto el primer jueves de cada mes."
+
+#: inc/wpdp_settings.php:237
+msgid "Note: It will override weekends functionality."
+msgstr "Nota: Anulará la funcionalidad de los fines de semana."
+
+#: inc/wpdp_settings.php:243
+msgid "Need months in full or short?"
+msgstr "¿Necesita meses completos o cortos?"
+
+#: inc/wpdp_settings.php:244
+msgid "Short"
+msgstr "Corto"
+
+#: inc/wpdp_settings.php:245
+msgid "Full"
+msgstr "Completo"
+
+#: inc/wpdp_settings.php:246
+msgid "or September?"
+msgstr "o septiembre?"
+
+#: inc/wpdp_settings.php:250
+msgid "Enter"
+msgstr "Entrar"
+
+#: inc/wpdp_settings.php:250
+msgid "selector"
+msgstr "selector"
+
+#: inc/wpdp_settings.php:252
+msgid "You can enter multiple selectors as CSV"
+msgstr "Puede introducir múltiples selectores como CSV"
+
+#: inc/wpdp_settings.php:252
+msgid "Comma Separated Values"
+msgstr "Valores Separados por Comas"
+
+#: inc/wpdp_settings.php:259
+msgid "Sample"
+msgstr "Muestra"

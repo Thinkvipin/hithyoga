@@ -1,0 +1,12 @@
+2019-08-23T12:18:20+00:00 CRITICAL Call to a member function is_rtl() on null in /home/cjanroap/public_html/hithyoga/wp-includes/script-loader.php on line 2229
+
+2019-08-23T12:18:38+00:00 CRITICAL Call to a member function is_rtl() on null in /home/cjanroap/public_html/hithyoga/wp-includes/script-loader.php on line 2229
+
+2019-08-23T12:20:44+00:00 CRITICAL Call to a member function is_rtl() on null in /home/cjanroap/public_html/hithyoga/wp-includes/script-loader.php on line 2229
+
+2019-08-23T12:28:21+00:00 CRITICAL Call to a member function is_rtl() on null in /home/cjanroap/public_html/hithyoga/wp-includes/script-loader.php on line 2229
+
+2019-08-23T12:46:51+00:00 CRITICAL Call to a member function is_rtl() on null in /home/cjanroap/public_html/hithyoga/wp-includes/script-loader.php on line 2229
+
+2019-08-23T13:25:57+00:00 CRITICAL Call to a member function is_rtl() on null in /home/cjanroap/public_html/hithyoga/wp-includes/script-loader.php on line 2229
+

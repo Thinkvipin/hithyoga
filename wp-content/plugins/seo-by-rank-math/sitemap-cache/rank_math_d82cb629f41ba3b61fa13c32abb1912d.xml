@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.hithyoga.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.hithyoga.com/team/marta-kerr/</loc>
+		<lastmod>2018-12-11T14:23:59+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/tina-wang/</loc>
+		<lastmod>2015-12-04T16:45:31+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/vicky-lewis/</loc>
+		<lastmod>2015-12-04T16:38:50+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/maggie-jones/</loc>
+		<lastmod>2015-12-04T16:37:26+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/jennifer-doe/</loc>
+		<lastmod>2015-12-04T16:36:18+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/alexa-brust/</loc>
+		<lastmod>2015-12-04T16:35:04+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/miranda-roberts/</loc>
+		<lastmod>2015-12-04T16:33:56+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/roberta-smart/</loc>
+		<lastmod>2015-12-04T16:29:45+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/linda-crow/</loc>
+		<lastmod>2015-12-04T16:29:03+05:30</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hithyoga.com/team/laura-dawson/</loc>
+		<lastmod>2015-12-04T16:26:08+05:30</lastmod>
+	</url>
+</urlset>
